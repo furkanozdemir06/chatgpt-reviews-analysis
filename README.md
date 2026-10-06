@@ -8,8 +8,6 @@ This repository contains a Data Science and Sentiment Analysis project on user r
 - [Project Architecture & Workflow](#project-architecture--workflow)
 - [Technologies & Libraries Used](#technologies--libraries-used)
 - [Key Analysis & Findings](#key-analysis--findings)
-- [How to Run](#how-to-run)
-
 ---
 
 ## 🎯 Overview
